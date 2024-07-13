@@ -1,0 +1,1 @@
+Created with HTML, CSS, and JavaScript, this web page provides a delectable platform for bakeries to showcase their treats. Display mouthwatering images, highlight daily specials, and offer easy online ordering. This landing page is the perfect recipe for attracting customers to your bakery, combining a visually appealing design with user-friendly functionality.
